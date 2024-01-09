@@ -26,9 +26,6 @@ For a guided tour of the dashboard:
 - Microsoft Power BI Desktop for `.pbix` file
 - Microsoft PowerPoint for `.pptx` file
 
-## Contributing
-Feel free to fork this repository if you have ideas for improvements or want to use the dashboard as a starting point for your own project.
-
 ## Acknowledgements
 - Tailwind Traders is a fictional company used for this project.
 - Data used in this project is also fictional and provided in Microsoft Power BI Data Analyst Certificate.
